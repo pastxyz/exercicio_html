@@ -1,0 +1,28 @@
+dir ou ls (comando para listar as pastas)
+----------
+cls ou atalho ctrl+l (comando para limpar a tela)
+----------
+cd .. (comando para sair de uma pasta)
+----------
+cd pasta_qualquer (comando para entrar em uma pasta ou diretorio)
+----------
+mkdir pasta_qualquer (comando para criar uma pasta)
+----------
+echo "ola" > arquivo.txt (comando para criar um arquivo)
+----------
+cat arquivo.txt (comando para ver oque tem dentro do arquivo)
+----------
+rm -r arquivo.txt (comando para deletar um arquivo ou pasta)
+----------
+git init . (comando para iniciar o repositorio)
+----------
+git status (comando para mostrar o stage do git)
+----------
+git add arquivo.tx (comando para adicionar um arquivo no stage)
+----------
+git rm --cached arquivo.txt (comando para tirar um arquivo do stage)
+----------
+git add . (comando para adicionar todos os arquivos de uma vez)
+----------
+
+ 
